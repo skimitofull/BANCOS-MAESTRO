@@ -1,0 +1,246 @@
+{
+  "method": "Ancho de tinta por carácter; entrenamiento marzo-mayo, validación junio-agosto. Ajustes limitados al 7%. No reconstruye la fuente original.",
+  "characters": {
+    "D": {
+      "training_samples": 88,
+      "validation_samples": 79,
+      "before_error_pt": 0.49001186708860767,
+      "after_error_pt": 0.2433072916666662,
+      "applied": true,
+      "scale": 1.07
+    },
+    "E": {
+      "training_samples": 244,
+      "validation_samples": 198,
+      "before_error_pt": 0.17920415088383837,
+      "after_error_pt": 0.08080808080808084,
+      "applied": true,
+      "scale": 0.9461040960886973
+    },
+    "S": {
+      "training_samples": 43,
+      "validation_samples": 34,
+      "before_error_pt": 0.07196882659313711,
+      "after_error_pt": 0.029411764705882328,
+      "applied": true,
+      "scale": 1.0142950406339344
+    },
+    "C": {
+      "training_samples": 132,
+      "validation_samples": 98,
+      "before_error_pt": 0.3070691167091837,
+      "after_error_pt": 0.18427853954081616,
+      "applied": true,
+      "scale": 0.93
+    },
+    "R": {
+      "training_samples": 127,
+      "validation_samples": 119,
+      "before_error_pt": 0.1356095172443976,
+      "after_error_pt": 0.1260504201680672,
+      "applied": false,
+      "scale": 1.0108134787095615
+    },
+    "I": {
+      "training_samples": 97,
+      "validation_samples": 100,
+      "before_error_pt": 0.12252766927083342,
+      "after_error_pt": 0.07988406575520841,
+      "applied": true,
+      "scale": 0.93
+    },
+    "P": {
+      "training_samples": 45,
+      "validation_samples": 48,
+      "before_error_pt": 0.2746988932291665,
+      "after_error_pt": 0.08338663736979157,
+      "applied": true,
+      "scale": 0.93
+    },
+    "O": {
+      "training_samples": 116,
+      "validation_samples": 86,
+      "before_error_pt": 0.6180467235949612,
+      "after_error_pt": 0.3408836376574607,
+      "applied": true,
+      "scale": 1.07
+    },
+    "N": {
+      "training_samples": 93,
+      "validation_samples": 71,
+      "before_error_pt": 0.17917514854753527,
+      "after_error_pt": 0.1924882629107982,
+      "applied": false,
+      "scale": 0.9509698389581882
+    },
+    "T": {
+      "training_samples": 73,
+      "validation_samples": 63,
+      "before_error_pt": 0.18241954985119055,
+      "after_error_pt": 0.19047619047619055,
+      "applied": false,
+      "scale": 1.0441654451596456
+    },
+    "1": {
+      "training_samples": 166,
+      "validation_samples": 141,
+      "before_error_pt": 0.3241258264997046,
+      "after_error_pt": 0.21719474341570646,
+      "applied": true,
+      "scale": 1.07
+    },
+    "8": {
+      "training_samples": 57,
+      "validation_samples": 80,
+      "before_error_pt": 0.6081705729166665,
+      "after_error_pt": 0.38795084635416643,
+      "applied": true,
+      "scale": 1.07
+    },
+    "3": {
+      "training_samples": 87,
+      "validation_samples": 84,
+      "before_error_pt": 0.18123759920634935,
+      "after_error_pt": 0.027777777777778217,
+      "applied": true,
+      "scale": 1.0567595459236327
+    },
+    "7": {
+      "training_samples": 73,
+      "validation_samples": 61,
+      "before_error_pt": 0.12082426144125664,
+      "after_error_pt": 0.209992342255806,
+      "applied": false,
+      "scale": 1.07
+    },
+    "0": {
+      "training_samples": 322,
+      "validation_samples": 380,
+      "before_error_pt": 0.35207905016447366,
+      "after_error_pt": 0.17719298245614018,
+      "applied": true,
+      "scale": 1.0553709000025766
+    },
+    "2": {
+      "training_samples": 170,
+      "validation_samples": 140,
+      "before_error_pt": 0.27066359747023805,
+      "after_error_pt": 0.1598067220052085,
+      "applied": true,
+      "scale": 0.93
+    },
+    "V": {
+      "training_samples": 46,
+      "validation_samples": 27,
+      "before_error_pt": 0.16329692322530848,
+      "after_error_pt": 0.1604938271604937,
+      "applied": false,
+      "scale": 1.0058559069099702
+    },
+    "A": {
+      "training_samples": 190,
+      "validation_samples": 136,
+      "before_error_pt": 0.28970875459558837,
+      "after_error_pt": 0.16799749636182582,
+      "applied": true,
+      "scale": 0.93
+    },
+    "B": {
+      "training_samples": 53,
+      "validation_samples": 34,
+      "before_error_pt": 0.21125823376225472,
+      "after_error_pt": 0.08467376110600465,
+      "applied": true,
+      "scale": 1.07
+    },
+    "M": {
+      "training_samples": 43,
+      "validation_samples": 35,
+      "before_error_pt": 0.7445638020833337,
+      "after_error_pt": 0.39534993489583337,
+      "applied": true,
+      "scale": 1.07
+    },
+    "X": {
+      "training_samples": 14,
+      "validation_samples": 9,
+      "before_error_pt": 0.30745442708333304,
+      "after_error_pt": 0.025642903645833215,
+      "applied": true,
+      "scale": 1.07
+    },
+    "L": {
+      "training_samples": 78,
+      "validation_samples": 70,
+      "before_error_pt": 0.39217122395833337,
+      "after_error_pt": 0.1780525716145838,
+      "applied": true,
+      "scale": 0.93
+    },
+    "U": {
+      "training_samples": 28,
+      "validation_samples": 30,
+      "before_error_pt": 0.4170030381944443,
+      "after_error_pt": 0.16308213975694408,
+      "applied": true,
+      "scale": 1.07
+    },
+    "4": {
+      "training_samples": 115,
+      "validation_samples": 71,
+      "before_error_pt": 0.1392449750586853,
+      "after_error_pt": 0.07511737089201904,
+      "applied": true,
+      "scale": 1.0178006686545586
+    },
+    "5": {
+      "training_samples": 120,
+      "validation_samples": 91,
+      "before_error_pt": 0.16760566907051294,
+      "after_error_pt": 0.20512820512820518,
+      "applied": false,
+      "scale": 0.9485873089393237
+    },
+    "6": {
+      "training_samples": 118,
+      "validation_samples": 97,
+      "before_error_pt": 0.2683835373711341,
+      "after_error_pt": 0.08934707903780081,
+      "applied": true,
+      "scale": 1.0567595459236327
+    },
+    "F": {
+      "training_samples": 45,
+      "validation_samples": 36,
+      "before_error_pt": 0.21943721064814822,
+      "after_error_pt": 0.16411494502314816,
+      "applied": true,
+      "scale": 0.93
+    },
+    "G": {
+      "training_samples": 8,
+      "validation_samples": 16,
+      "before_error_pt": 0.17333984375,
+      "after_error_pt": 4.440892098500626e-16,
+      "applied": true,
+      "scale": 1.0452979456424651
+    },
+    "Z": {
+      "training_samples": 12,
+      "validation_samples": 7,
+      "before_error_pt": 0.08453078497023794,
+      "after_error_pt": 0.047619047619047575,
+      "applied": true,
+      "scale": 1.0142950406339344
+    },
+    "9": {
+      "training_samples": 79,
+      "validation_samples": 61,
+      "before_error_pt": 0.33225004269125685,
+      "after_error_pt": 0.13661202185792343,
+      "applied": true,
+      "scale": 1.062350866272435
+    }
+  },
+  "sample_count": 5412
+}

@@ -1,0 +1,11 @@
+SANTANDER SELECT V2
+
+Fuente aproximada derivada de Roboto Condensed (OFL): 24 caracteres con ajustes de ancho limitados al 7%. 5,412 muestras totales; entrenamiento marzo-mayo y validación junio-agosto. Error medio de ancho de tinta en los caracteres ajustados: 0.307 a 0.147 puntos. No mide similitud completa ni acredita identidad con la fuente bancaria.
+
+Convertidor: Fase 1 PDF a Excel > Banco SANTANDER SELECT. Lectura local con RapidOCR/ONNX; no envía documentos a servicios externos. La extracción puede tardar varios minutos. Se conservan folios como texto y las líneas reconocidas. Las etiquetas conocidas recuperan espacios; nombres, conceptos y referencias necesitan revisión visual.
+
+Los resultados OCR son preliminares: puede omitir operaciones o confundir cifras. Se muestran diferencias de saldo, cifras de baja confianza y revisión de referencias. Verificar cantidad de movimientos y saldos contra cada documento. La muestra Excel cubre sólo hojas 2 y 3 de marzo, no el estado completo.
+
+Fase 2 y Generador didáctico > SANTANDER SELECT utilizan la nueva fuente. Se mantienen tamaño 8.5 pt, paso 9.2 pt, columnas y fondo alterno por movimiento. Los otros formatos no se modificaron.
+
+Dependencias locales: C:\Users\clopez\Documents\ChatGPT\LOCAL CLC\tmp\santander_v2\libs. No borrar esa carpeta mientras se utilice este lector.

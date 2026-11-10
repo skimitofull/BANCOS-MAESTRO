@@ -1,0 +1,322 @@
+[
+  {
+    "PAGINA": 1,
+    "X": 55,
+    "Y": 151,
+    "ANCHO": 527,
+    "TAMANO": 13,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "Significado de abreviaturas utilizadas en el ejercicio:"
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 176,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "ABO"
+  },
+  {
+    "PAGINA": 1,
+    "X": 72,
+    "Y": 176,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "ABONO"
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 190,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "CAR"
+  },
+  {
+    "PAGINA": 1,
+    "X": 72,
+    "Y": 190,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "CARGO"
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 204,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "COM"
+  },
+  {
+    "PAGINA": 1,
+    "X": 72,
+    "Y": 204,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "COMISION"
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 218,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "CTA"
+  },
+  {
+    "PAGINA": 1,
+    "X": 72,
+    "Y": 218,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "CUENTA"
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 232,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "DEP"
+  },
+  {
+    "PAGINA": 1,
+    "X": 72,
+    "Y": 232,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "DEPOSITO"
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 246,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "IVA"
+  },
+  {
+    "PAGINA": 1,
+    "X": 72,
+    "Y": 246,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "IMPUESTO AL VALOR AGREGADO"
+  },
+  {
+    "PAGINA": 1,
+    "X": 306,
+    "Y": 176,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "REF"
+  },
+  {
+    "PAGINA": 1,
+    "X": 348,
+    "Y": 176,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "REFERENCIA"
+  },
+  {
+    "PAGINA": 1,
+    "X": 306,
+    "Y": 190,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "RET"
+  },
+  {
+    "PAGINA": 1,
+    "X": 348,
+    "Y": 190,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "RETIRO"
+  },
+  {
+    "PAGINA": 1,
+    "X": 306,
+    "Y": 204,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "RFC"
+  },
+  {
+    "PAGINA": 1,
+    "X": 348,
+    "Y": 204,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "REGISTRO FEDERAL DE CONTRIBUYENTES"
+  },
+  {
+    "PAGINA": 1,
+    "X": 306,
+    "Y": 218,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "SAL"
+  },
+  {
+    "PAGINA": 1,
+    "X": 348,
+    "Y": 218,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "SALDO"
+  },
+  {
+    "PAGINA": 1,
+    "X": 306,
+    "Y": 232,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "SPEI"
+  },
+  {
+    "PAGINA": 1,
+    "X": 348,
+    "Y": 232,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "TRANSFERENCIA INTERBANCARIA"
+  },
+  {
+    "PAGINA": 1,
+    "X": 306,
+    "Y": 246,
+    "ANCHO": 36,
+    "TAMANO": 8.5,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "TDC"
+  },
+  {
+    "PAGINA": 1,
+    "X": 348,
+    "Y": 246,
+    "ANCHO": 230,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "TARJETA DE CREDITO"
+  },
+  {
+    "PAGINA": 1,
+    "X": 55,
+    "Y": 302,
+    "ANCHO": 527,
+    "TAMANO": 13,
+    "ESTILO": "b",
+    "ROJO": true,
+    "TEXTO": "Mensajes importantes - material didactico."
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 329,
+    "ANCHO": 552,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "Este archivo es un ejercicio educativo con datos modificados. No acredita operaciones bancarias."
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 342,
+    "ANCHO": 552,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "Los importes y saldos se calculan desde la tabla de movimientos. Las referencias son datos del ejercicio."
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 355,
+    "ANCHO": 552,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "La seccion fiscal es ficticia: no contiene certificados, firmas ni un comprobante fiscal valido."
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 368,
+    "ANCHO": 552,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "Para conservar la presentacion, edita el Excel y vuelve a exportar. Los cambios directos en PDF"
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 381,
+    "ANCHO": 552,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "no actualizan automaticamente los totales, saldos, referencias ni la paginacion."
+  },
+  {
+    "PAGINA": 1,
+    "X": 30,
+    "Y": 394,
+    "ANCHO": 552,
+    "TAMANO": 8.5,
+    "ESTILO": "r",
+    "ROJO": false,
+    "TEXTO": "Puedes sustituir estos anexos por texto revisado obtenido del PDF de referencia en el convertidor."
+  }
+]

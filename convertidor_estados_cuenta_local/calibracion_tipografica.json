@@ -1,0 +1,198 @@
+{
+  "base": "Roboto Condensed Regular (OFL)",
+  "name": "CLC Movimientos Select Regular",
+  "horizontal_scale": 0.9755690918942737,
+  "vertical_scale": 0.9515190691661279,
+  "size_points": 8.5,
+  "measured_cap_height_points": 5.75,
+  "line_pitch_points": 9.2,
+  "samples": [
+    {
+      "month": "marzo",
+      "phrase": "ADMINISTRACION RENTA FEB 2026",
+      "bands": [
+        {
+          "y": 300.0,
+          "height": 4.25,
+          "width": 48.0
+        },
+        {
+          "y": 313.5,
+          "height": 5.75,
+          "width": 117.25
+        },
+        {
+          "y": 322.75,
+          "height": 5.75,
+          "width": 100.25
+        },
+        {
+          "y": 332.25,
+          "height": 5.75,
+          "width": 150.75
+        },
+        {
+          "y": 341.0,
+          "height": 4.0,
+          "width": 101.75
+        }
+      ]
+    },
+    {
+      "month": "abril",
+      "phrase": "ADMINISTRACION RENTA MAR 2026",
+      "bands": [
+        {
+          "y": 300.0,
+          "height": 4.25,
+          "width": 48.0
+        },
+        {
+          "y": 313.5,
+          "height": 5.75,
+          "width": 120.25
+        },
+        {
+          "y": 322.75,
+          "height": 5.75,
+          "width": 103.25
+        },
+        {
+          "y": 332.25,
+          "height": 5.75,
+          "width": 144.25
+        },
+        {
+          "y": 341.0,
+          "height": 4.0,
+          "width": 85.25
+        }
+      ]
+    },
+    {
+      "month": "mayo",
+      "phrase": "ADMINISTRACION RENTA ABR 2026",
+      "bands": [
+        {
+          "y": 300.0,
+          "height": 4.25,
+          "width": 48.0
+        },
+        {
+          "y": 313.5,
+          "height": 5.75,
+          "width": 118.25
+        },
+        {
+          "y": 322.75,
+          "height": 5.75,
+          "width": 101.25
+        },
+        {
+          "y": 332.25,
+          "height": 5.75,
+          "width": 144.25
+        },
+        {
+          "y": 341.0,
+          "height": 4.0,
+          "width": 71.0
+        }
+      ]
+    },
+    {
+      "month": "junio",
+      "phrase": "ADMINISTRACION RENTA MAY 2026",
+      "bands": [
+        {
+          "y": 300.0,
+          "height": 4.25,
+          "width": 48.0
+        },
+        {
+          "y": 313.5,
+          "height": 5.75,
+          "width": 120.0
+        },
+        {
+          "y": 322.75,
+          "height": 5.75,
+          "width": 103.0
+        },
+        {
+          "y": 332.25,
+          "height": 5.75,
+          "width": 229.75
+        },
+        {
+          "y": 341.0,
+          "height": 4.0,
+          "width": 140.5
+        }
+      ]
+    },
+    {
+      "month": "julio",
+      "phrase": "ADMINISTRACION RENTA JUN 2026",
+      "bands": [
+        {
+          "y": 300.0,
+          "height": 4.25,
+          "width": 48.0
+        },
+        {
+          "y": 313.5,
+          "height": 5.75,
+          "width": 117.75
+        },
+        {
+          "y": 322.75,
+          "height": 5.75,
+          "width": 100.75
+        },
+        {
+          "y": 332.25,
+          "height": 5.5,
+          "width": 185.5
+        },
+        {
+          "y": 341.5,
+          "height": 3.5,
+          "width": 133.5
+        }
+      ]
+    },
+    {
+      "month": "agosto",
+      "phrase": "ADMINISTRACION RENTA JUL 2026",
+      "bands": [
+        {
+          "y": 300.0,
+          "height": 4.25,
+          "width": 48.0
+        },
+        {
+          "y": 313.5,
+          "height": 5.75,
+          "width": 150.25
+        },
+        {
+          "y": 322.25,
+          "height": 5.75,
+          "width": 91.0
+        },
+        {
+          "y": 331.25,
+          "height": 5.75,
+          "width": 126.25
+        },
+        {
+          "y": 340.0,
+          "height": 5.0,
+          "width": 160.5
+        }
+      ]
+    }
+  ],
+  "note": "Fuente calibrada a imágenes; no es la fuente original del banco ni una reconstrucción exacta."
+}

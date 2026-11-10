@@ -1,0 +1,756 @@
+{
+  "fecha_respaldo": "2026-11-10",
+  "origen": "C:\\Users\\clopez\\Documents\\Codex\\2026-08-16\\re\\outputs\\convertidor_estados_cuenta_local",
+  "archivos": [
+    {
+      "archivo": ".streamlit/config.toml",
+      "bytes": 78,
+      "sha256": "20569a6848e83f057930f2117d8ef3d17548d3a69e34498207b2425b250ab3e4"
+    },
+    {
+      "archivo": "app.py",
+      "bytes": 147244,
+      "sha256": "19db34e3d858bcc864d90465792354ff315afb4de481ecbafd1a3f8303bef789"
+    },
+    {
+      "archivo": "banamex_micuenta_parser.py",
+      "bytes": 13890,
+      "sha256": "ce5db66200a51436e74c78c52c607bac199361dc87a40f51ba3f9485000da74c"
+    },
+    {
+      "archivo": "bank_readers.py",
+      "bytes": 16052,
+      "sha256": "821ec0d78aabe48fb535a8fb149e4be99fff6edc2f5e82dbf36c6765f53d24b2"
+    },
+    {
+      "archivo": "bankaool.py",
+      "bytes": 22629,
+      "sha256": "a9cdbdcedb98679c9ef3e6fc81bfd67b98a4423acb964fa419721bb0db46325e"
+    },
+    {
+      "archivo": "Bankaool_Arial.ttf",
+      "bytes": 1036584,
+      "sha256": "c9b76220a5be42ead4733611e417cd65c5fd8aeaa33eb56576ac378a37d130a1"
+    },
+    {
+      "archivo": "Bankaool_Arial_Bold.ttf",
+      "bytes": 980756,
+      "sha256": "766f06ac8761f82f25d032a220e89438f6064591af9915061f20b949efdedf69"
+    },
+    {
+      "archivo": "bankaool_template.pdf",
+      "bytes": 304556,
+      "sha256": "41ae9d45455e6453581859b0c8ce4190fd5859e63607d4aac124b5ac4ee79d6a"
+    },
+    {
+      "archivo": "Bankaool_Times.ttf",
+      "bytes": 1195688,
+      "sha256": "2cff2a03d8034801979dd6d16f09b9a825c3d710fcf068f2ebfbf0e1425c87cf"
+    },
+    {
+      "archivo": "bbva_parser.py",
+      "bytes": 4601,
+      "sha256": "c2b9546c658a007b46e9c4c533a72ebd349d68a098b1a90b761b9237b5612541"
+    },
+    {
+      "archivo": "calibracion_tipografica.json",
+      "bytes": 4077,
+      "sha256": "c85e1693266bd4ce070939675fc683cb70bee8debb8ad9dada2502cf4c8c1e72"
+    },
+    {
+      "archivo": "CLC_Movimientos_Select_Regular.ttf",
+      "bytes": 194720,
+      "sha256": "b00ce05ec4b4a67180aef1319ca1aa0414e4c68f8a6b8a7592b55ca68bf292b0"
+    },
+    {
+      "archivo": "CLC_Select_Bold.ttf",
+      "bytes": 145104,
+      "sha256": "fb6dfdd85921c38448ff45920223463c8d7c3ea61d76e102c39b825b51432cf0"
+    },
+    {
+      "archivo": "CLC_Select_BoldItalic.ttf",
+      "bytes": 150920,
+      "sha256": "d802c7d5efb98e9033153bacf67a1269d1657cb872ed98b6310d6c68f9e9bb5e"
+    },
+    {
+      "archivo": "CLC_Select_Caratula_Escaneo_Bold.ttf",
+      "bytes": 244016,
+      "sha256": "2bd198745de0f1f118b053b8764263f43f5e2b871f95bce1e7c00daea9ccd7a0"
+    },
+    {
+      "archivo": "CLC_Select_Caratula_Escaneo_Ligera.ttf",
+      "bytes": 268792,
+      "sha256": "0b9cbea380940bf7be150d96e5cea0e7672b496d0dbff34fde0ff68f5f966e7d"
+    },
+    {
+      "archivo": "CLC_Select_Caratula_Escaneo_Regular.ttf",
+      "bytes": 266420,
+      "sha256": "eff0290f43d7b6e554b7bb928f2794e1ea49d72d5f43e0894d3ac20ec651b632"
+    },
+    {
+      "archivo": "CLC_Select_Caratula_Nitido_Bold.ttf",
+      "bytes": 127780,
+      "sha256": "f592aa505fbf0cf76921c27d3322bea3c9e08211944370dcca30d73af55c48db"
+    },
+    {
+      "archivo": "CLC_Select_Caratula_Nitido_Regular.ttf",
+      "bytes": 195144,
+      "sha256": "bb2fa89abbbef012c0677a5f81b7d48dc01840813739b2fb17bcb18b31f08267"
+    },
+    {
+      "archivo": "CLC_Select_Escaneo_Bold.ttf",
+      "bytes": 248596,
+      "sha256": "8e9d1555d0eb6d7c4dcda4b694c07e544bdcc34955c2e447e768de04858ef9ae"
+    },
+    {
+      "archivo": "CLC_Select_Escaneo_BoldItalic.ttf",
+      "bytes": 284396,
+      "sha256": "ef8d627869c24c5e8b263d804bc80026ec884322773129bc92b75f6de24511f7"
+    },
+    {
+      "archivo": "CLC_Select_Escaneo_Editable.ttf",
+      "bytes": 266252,
+      "sha256": "c6c4c9d8c9d093bc5283f4bd2f6d4f8c7a4bcbf1d41100cd442fc121c74b1c57"
+    },
+    {
+      "archivo": "CLC_Select_Escaneo_NumerosBold.ttf",
+      "bytes": 730756,
+      "sha256": "19050abbba4a16beec18093d9ec600e6d442febf246fae9f919c5fbb5470e912"
+    },
+    {
+      "archivo": "CLC_Select_Movimientos_Ligera.ttf",
+      "bytes": 268660,
+      "sha256": "883975c5c02f01baf6fbeb30aef4cd085933b0e05b52e194f962bd16f4f77388"
+    },
+    {
+      "archivo": "CLC_Select_NumerosBold.ttf",
+      "bytes": 322380,
+      "sha256": "246882d1a418e99e07f30c8f88c5c43a950ff8d2091f599e38420180e4a8a222"
+    },
+    {
+      "archivo": "CLC_Select_Pixel_Original_Bold.ttf",
+      "bytes": 222504,
+      "sha256": "6ee95a7e7b0e57d845ccb225a83220121b0bdec606fc041398aeb786ff48b66c"
+    },
+    {
+      "archivo": "CLC_Select_Pixel_Original_Regular.ttf",
+      "bytes": 243936,
+      "sha256": "22cf0163947f2e9d95b8f57a602cf9d4f66c6fc3c35eb6d8bf5b412118a9f70f"
+    },
+    {
+      "archivo": "ejecutar_app.bat",
+      "bytes": 459,
+      "sha256": "ee7383f994cbe0463907445f7fe781c4c6d1fb2155428c8fd0a987993b0d9a7c"
+    },
+    {
+      "archivo": "ejemplos/BANORTE_EXCEL_EJEMPLO.xlsx",
+      "bytes": 44387,
+      "sha256": "98d83e562f03a310df24e34630def1ed24b522a30078adf16962d48c2b546705"
+    },
+    {
+      "archivo": "ejemplos_corregidos/BANAMEX_INGRESO_MONTO_RENGLON_VACIO.pdf",
+      "bytes": 37290,
+      "sha256": "d24659eb10ff29801a5900336827a32a5e13fe0b654bb713beff0478e9b8a326"
+    },
+    {
+      "archivo": "ejemplos_corregidos/BANAMEX_JUN_JUL_CORRECCION_MOVIMIENTOS.pdf",
+      "bytes": 35027,
+      "sha256": "57010a016f3b0d923232c6b836c5b31d1092dfc903e04c06f0a6ee8b781e970d"
+    },
+    {
+      "archivo": "ejemplos_corregidos/BANAMEX_MICUENTA_TRANSFERENCIAS_SELECCIONADAS.pdf",
+      "bytes": 34963,
+      "sha256": "047d5dff54988e86be933d6e5ce3b813fa6b91263c2cddaf40e750b99ee52ccd"
+    },
+    {
+      "archivo": "ejemplos_corregidos/BANAMEX_RASTREOS_CUENTAS_CORREGIDOS.pdf",
+      "bytes": 37379,
+      "sha256": "8f6bf84e92ce89a2b68958e22345abc3a2ec0f544ff2bd2b2f5b2ee254c158c5"
+    },
+    {
+      "archivo": "ejemplos_corregidos/BANAMEX_SIN_BANCOS_CONSECUTIVOS_NUEVOS.pdf",
+      "bytes": 45372,
+      "sha256": "06ec6abae916923c4364f26a0c70b8e6c8799ccee91ea605a959bf3567ef8a10"
+    },
+    {
+      "archivo": "ejemplos_corregidos/BANAMEX_SIN_CONCEPTO_GENERICO.pdf",
+      "bytes": 37269,
+      "sha256": "92fe2edef4c8a55665ce37de8766aa74038cc659eb67a0f905b44e1e10db3348"
+    },
+    {
+      "archivo": "ejemplos_corregidos/BANAMEX_VARIACION_BANCOS_NOMBRES_SIN_REPETIR.pdf",
+      "bytes": 45340,
+      "sha256": "7fe4f8bc44ef9d76abfc8b4e1cf730ff242ecf8cc4a948ce5f858ad310497ca6"
+    },
+    {
+      "archivo": "ejemplos_corregidos/BANAMEX_VARIACION_ESTRUCTURA_FINAL.pdf",
+      "bytes": 39589,
+      "sha256": "62fa683a6f1482d935a91ae8705a83dfca5ac14b988ef8aa1fd8bcca65b5ae61"
+    },
+    {
+      "archivo": "ejemplos_corregidos/GENERADOR_UN_ARCHIVO_PDF_BASE_BANAMEX.pdf",
+      "bytes": 35628,
+      "sha256": "e38656724ee145ba621e77dbb53a8e751d20dc17ead524a4f35ca2a2cdcff93e"
+    },
+    {
+      "archivo": "ejemplos_corregidos/SCOTIABANK_PERIODO_1_REVISION_CATALOGO.pdf",
+      "bytes": 67291,
+      "sha256": "2c1c8a139718e846c2acdb2a9781ed93604462efa2de14ff7fcb04b8963086ab"
+    },
+    {
+      "archivo": "ejemplos_corregidos/SCOTIABANK_PERIODO_2_REVISION_CATALOGO.pdf",
+      "bytes": 72690,
+      "sha256": "fc5e858d92bffce7679a1a4d3270fc683a27ef4ac08d2c986a05613d46325942"
+    },
+    {
+      "archivo": "ejemplos_corregidos/SCOTIABANK_PERIODO_3_REVISION_CATALOGO.pdf",
+      "bytes": 70742,
+      "sha256": "352b2b1e000ff85831fcef706ca600a7ffe066e899cf71201848aedefe4c8327"
+    },
+    {
+      "archivo": "excel_layouts.py",
+      "bytes": 5200,
+      "sha256": "b3bef99b40de5903c472a58f65a72ab7721e11060fb51e199d5fbc56260991ef"
+    },
+    {
+      "archivo": "fuentes/ArialUnicodeMS.ttf",
+      "bytes": 23278008,
+      "sha256": "876af2cd4854644e7f3e7feb2f688997fdb3343c6df6693611209c9dfb47ccec"
+    },
+    {
+      "archivo": "fuentes/BanamexDisplay-Bold-subset.otf",
+      "bytes": 14928,
+      "sha256": "bdd51764ad9282bf76743e332d8dbbd4fe1476954313ec0a0a0f7f67d6e5ca58"
+    },
+    {
+      "archivo": "fuentes/BanamexDisplay-Regular-subset.otf",
+      "bytes": 16536,
+      "sha256": "bd523866d6f232c2d1259c6fde9e5391bb81baa86f2d58dc5e03993d72cd2408"
+    },
+    {
+      "archivo": "fuentes/libres/Arimo-Italic-Variable.ttf",
+      "bytes": 543196,
+      "sha256": "a80fc54fd0233c1dfe298577c4d00f5ae81d5bb83510975e473c47e699b7f4ed"
+    },
+    {
+      "archivo": "fuentes/libres/Arimo-Variable.ttf",
+      "bytes": 496268,
+      "sha256": "e43898b143ec826ac8cb4034816458a7047fbe0836558de2a1f8c6223ae3e0ca"
+    },
+    {
+      "archivo": "fuentes/libres/LICENSE-Arimo.txt",
+      "bytes": 4477,
+      "sha256": "c094231a740afcb231a21242ac85a13f1f7c394a991d1f818f1024af24681b2e"
+    },
+    {
+      "archivo": "fuentes/libres/LICENSE-RobotoCondensed.txt",
+      "bytes": 4486,
+      "sha256": "e794b23d9e437659ce254bd516111d75b580a75352c4446e103b72b78561f838"
+    },
+    {
+      "archivo": "fuentes/libres/LICENSE-SourceSans3.md",
+      "bytes": 4579,
+      "sha256": "5d8778c6a43dc2fee25e81ee6ff07e52c6f238473b491cda47f7117a2ce9d467"
+    },
+    {
+      "archivo": "fuentes/libres/RobotoCondensed-Italic-Variable.ttf",
+      "bytes": 388124,
+      "sha256": "78f643b1923008b00dfc9b371a2ecd4d80a017722925f1a3fac9940be56d1b7d"
+    },
+    {
+      "archivo": "fuentes/libres/RobotoCondensed-Variable.ttf",
+      "bytes": 371616,
+      "sha256": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0"
+    },
+    {
+      "archivo": "fuentes/libres/SourceSans3-Bold.ttf",
+      "bytes": 428176,
+      "sha256": "9214b9d95e4231c609802815c2646c98174e2102d0d37f88978a7f8e71006e6a"
+    },
+    {
+      "archivo": "fuentes/MYRIADPRO-BOLDCOND.OTF",
+      "bytes": 94628,
+      "sha256": "b2d54a0463b090945ea9ffbda4b520ffb1525cba3bdc3899c80d34eb04ca0b73"
+    },
+    {
+      "archivo": "fuentes/MYRIADPRO-COND.OTF",
+      "bytes": 91964,
+      "sha256": "7fe8a09e972a3bb9286aceb1c1534f1bd1e9ba83be4c3f86d7e9a3d1d3353172"
+    },
+    {
+      "archivo": "instalar_dependencias.bat",
+      "bytes": 634,
+      "sha256": "fd864250ca911c6d403e3e33807e5ba1a20c642eeff24e329af5ca46d6907ad5"
+    },
+    {
+      "archivo": "INSTALAR_Y_USAR.txt",
+      "bytes": 1429,
+      "sha256": "34014019155bf4f407bf0ce27b1536f543984bc9f3696565c38a859bbec0c054"
+    },
+    {
+      "archivo": "LEEME_HERRAMIENTAS.txt",
+      "bytes": 2258,
+      "sha256": "73e4590e7b5af7aaa09a030d26b61d9dd73adc7f541d8df0c4a18911c3d9b767"
+    },
+    {
+      "archivo": "LEEME_MEDICIONES.txt",
+      "bytes": 1388,
+      "sha256": "3bd7ca14272086238f889d2c3ca40eea4fcaeb29b0b0ea1bd5a5cc58ffdae08e"
+    },
+    {
+      "archivo": "LEEME_V2.txt",
+      "bytes": 1352,
+      "sha256": "13d6e285edeaa21e209c66d96d50436607364cd2f233bd762cb6819c57b55499"
+    },
+    {
+      "archivo": "LICENCIA_FUENTE.txt",
+      "bytes": 4486,
+      "sha256": "e794b23d9e437659ce254bd516111d75b580a75352c4446e103b72b78561f838"
+    },
+    {
+      "archivo": "LICENSE-Arimo.txt",
+      "bytes": 4477,
+      "sha256": "c094231a740afcb231a21242ac85a13f1f7c394a991d1f818f1024af24681b2e"
+    },
+    {
+      "archivo": "LICENSE-Select-Arimo.txt",
+      "bytes": 4477,
+      "sha256": "c094231a740afcb231a21242ac85a13f1f7c394a991d1f818f1024af24681b2e"
+    },
+    {
+      "archivo": "LICENSE-Select-RobotoCondensed.txt",
+      "bytes": 4486,
+      "sha256": "e794b23d9e437659ce254bd516111d75b580a75352c4446e103b72b78561f838"
+    },
+    {
+      "archivo": "linked_periods.py",
+      "bytes": 99919,
+      "sha256": "7c53b6576da7e6c27cbc7655ed996be3565a37222ef6f02d5a0056f4c50e091e"
+    },
+    {
+      "archivo": "MEDICIONES_ALTURA_ESPACIOS_NUMEROS.json",
+      "bytes": 27114,
+      "sha256": "6b0391c37e41dc5aeeb7c5e58c72f7632850aab89ef4b4437fb6b71176da65c5"
+    },
+    {
+      "archivo": "movement_templates.py",
+      "bytes": 81170,
+      "sha256": "6988fd2300f040a18d95746d0e0c7b8ef96062fc1f861e01de6507b1f500a361"
+    },
+    {
+      "archivo": "multi_bank_templates.py",
+      "bytes": 8170,
+      "sha256": "cc3f99fa1c93c6b5f8aef41e0fad3de82f76a7028594bf16bddc775071953027"
+    },
+    {
+      "archivo": "PLANTILLA_SELECT_EDITABLE.xlsx",
+      "bytes": 6836,
+      "sha256": "2eb38951ca65c5aa7e37eca1fe183416ce781e7e084a996e54f394c7dd218af7"
+    },
+    {
+      "archivo": "README_LOCAL.txt",
+      "bytes": 14353,
+      "sha256": "80f2a1193c44583f122686ad3b139049a8c322e503e9f71fa738662b709d0f4c"
+    },
+    {
+      "archivo": "requirements.txt",
+      "bytes": 123,
+      "sha256": "f365379332f0245bbe0afd74cf877051f52cae03fa371d0d529991c46744fc29"
+    },
+    {
+      "archivo": "respaldo_antes_BBVA_LARGO_20261007_175918/app.py",
+      "bytes": 122252,
+      "sha256": "c03e08839197c6506c7b94074142cc680917fa7d74fec79ed27f768f14aa957b"
+    },
+    {
+      "archivo": "respaldo_antes_BBVA_LARGO_20261007_175918/linked_periods.py",
+      "bytes": 97885,
+      "sha256": "9c60cbc3e72e602e0559544addb4ac2c95dfd848b634de3452cd0a6c344d51db"
+    },
+    {
+      "archivo": "respaldo_antes_BBVA_LARGO_20261007_175918/movement_templates.py",
+      "bytes": 63489,
+      "sha256": "6dc2a81814fc94e386c95ccd0ab1301f4743b13cb2ab23f33e60108ce6d4347b"
+    },
+    {
+      "archivo": "respaldo_antes_BBVA_LARGO_20261007_175918/synthetic_engine.py",
+      "bytes": 21097,
+      "sha256": "f797d9998076d274ba2bc1efa53fec5de4d89d5aeaef4fa13efee8457df24164"
+    },
+    {
+      "archivo": "respaldo_antes_BBVA_LARGO_20261007_175918/universal_extractor.py",
+      "bytes": 19495,
+      "sha256": "7a56b13fa9419bae3fb96ed46ad3909437b56cfea9a131e4e71a23a746878b80"
+    },
+    {
+      "archivo": "respaldo_filas_BBVA_LARGO_20261007_190258/movement_templates.py",
+      "bytes": 69448,
+      "sha256": "eadfdedf6beefa17817b0479a1e6734b692b21c12d673aea71ce7b93d9bec451"
+    },
+    {
+      "archivo": "respaldo_saldos_BBVA_LARGO_20261007_183438/movement_templates.py",
+      "bytes": 68726,
+      "sha256": "47481b724e08ad16b41866a0dd9f76dff24f85f12f1891df6323a060c10341ad"
+    },
+    {
+      "archivo": "respaldo_SANTANDER_SELECT_20261008_164207/app.py",
+      "bytes": 124693,
+      "sha256": "7c13828243f01a9f00331ea0957dd0a52a6b046059d703bcde6d5bb74d0079d4"
+    },
+    {
+      "archivo": "respaldo_SANTANDER_SELECT_20261008_164207/movement_templates.py",
+      "bytes": 81013,
+      "sha256": "520ee7db9b4072c78edda5ae354b877db11a57853f8e28804d9be2827627e01a"
+    },
+    {
+      "archivo": "respaldo_SANTANDER_SELECT_V2_20261008_170523/app.py",
+      "bytes": 125033,
+      "sha256": "29b86f48fe4fe86b9f22e283566bc9989e5c89acb382b9b9d08ad86aed4a07ee"
+    },
+    {
+      "archivo": "respaldo_SANTANDER_SELECT_V2_20261008_170523/CLC_Movimientos_Select_Regular.ttf",
+      "bytes": 194720,
+      "sha256": "02d1aa1f7556cca2852b40e66ad415c6518b080208f5a3f39c8b687d567f370f"
+    },
+    {
+      "archivo": "respaldo_SELECT_CARATULA_HERRAMIENTAS_20261008_215941/app.py",
+      "bytes": 130063,
+      "sha256": "cb3f610a70265cd7591cf61c7ed9736ea64bbd62a3439efb146d02b26f05daa0"
+    },
+    {
+      "archivo": "respaldo_SELECT_DOS_ACABADOS_20261008_210454/app.py",
+      "bytes": 126067,
+      "sha256": "0426c0e41424fcfb28487b89d3e09811cae19bfcda5e20d923a2bb8c8e8cbf54"
+    },
+    {
+      "archivo": "respaldo_SELECT_DOS_ACABADOS_20261008_210454/santander_select.py",
+      "bytes": 5714,
+      "sha256": "32533fb2fc78efa5483dbb6cf9fc0da30073f906db38e9587cfa4e7f6d1735c0"
+    },
+    {
+      "archivo": "respaldo_SELECT_ESCANEO_EDITABLE_20261008_212557/app.py",
+      "bytes": 126776,
+      "sha256": "b871b3926637ad99f7c2c018c43ff65e9945d3d7476f68be3dd70bb8544ec3f7"
+    },
+    {
+      "archivo": "respaldo_SELECT_ESCANEO_EDITABLE_20261008_212557/santander_select.py",
+      "bytes": 7499,
+      "sha256": "53cedd02d8fca11eea60352c5804c7448f266e69ec0678e7ff123c7420d82333"
+    },
+    {
+      "archivo": "respaldo_SELECT_METRICAS_20261008_211419/CLC_Movimientos_Select_Regular.ttf",
+      "bytes": 194720,
+      "sha256": "ac74baf36192d2ab2a0d950a8d45b2673668ee278176c34702c15dcfaee6685a"
+    },
+    {
+      "archivo": "respaldo_SPEI_BBVA_20261007_182304/linked_periods.py",
+      "bytes": 99790,
+      "sha256": "8a93ef32d2d551d213c0bffff3c4a8e25e6592b89bbcfb6abe1d0ef15e7d1374"
+    },
+    {
+      "archivo": "respaldo_SPEI_BBVA_20261007_182304/movement_templates.py",
+      "bytes": 67186,
+      "sha256": "cbbcfc1a461d7e413f94fea2dd0658ca5b7474ce8f0e96995641d3700db653f3"
+    },
+    {
+      "archivo": "respaldo_SPEI_BBVA_20261007_182304/synthetic_engine.py",
+      "bytes": 21674,
+      "sha256": "ba1b345cb538247c5c3590c297ae6ffc0ae87f047953ec958f77571a117fc634"
+    },
+    {
+      "archivo": "respaldos/afirme_monex_lectores_20261015_124622/app.py",
+      "bytes": 146201,
+      "sha256": "d6188f9a9266151b75768a27b63e78c3ff4a643bc15cf93adb6c5907285b2c8c"
+    },
+    {
+      "archivo": "respaldos/bankaool_20261009_181104/app.py",
+      "bytes": 143333,
+      "sha256": "de1ad20ffaa4c587af0633e8f5c9df38335152d5f9d429b337c2d7231540db57"
+    },
+    {
+      "archivo": "respaldos/select_alineacion_excel_20261009_162137/app.py",
+      "bytes": 143333,
+      "sha256": "de1ad20ffaa4c587af0633e8f5c9df38335152d5f9d429b337c2d7231540db57"
+    },
+    {
+      "archivo": "respaldos/select_alineacion_excel_20261009_162137/select_cover_layout.py",
+      "bytes": 8611,
+      "sha256": "547a1753ba17c8f27147d56c5be9c4c861a82c9652e6c06859be651408361fe1"
+    },
+    {
+      "archivo": "respaldos/select_alineacion_excel_20261009_162137/select_editable_document.py",
+      "bytes": 20763,
+      "sha256": "2077d7063362de556abf617636cc9d4f6983c8a503ad993263db2c5c37a1fc75"
+    },
+    {
+      "archivo": "respaldos/select_alineacion_excel_20261009_162137/select_excel_reader.py",
+      "bytes": 3591,
+      "sha256": "f4636e6c182c154c43ec09fde346085b68de8ab7f0eb020edb943ed6fde205ef"
+    },
+    {
+      "archivo": "respaldos/select_alineacion_excel_20261009_162137/select_formula_workbook.py",
+      "bytes": 12895,
+      "sha256": "53e846024b8d19add24f75d6def54a162b96ba33226821a014c71b46b8b69824"
+    },
+    {
+      "archivo": "respaldos/select_caratula_20261009_084353/FUENTES_SELECT_EDITABLES.zip",
+      "bytes": 1047656,
+      "sha256": "e9a30c15a140329604bc2463912376633a4ea63f0fc789fdd85220bb036a3f62"
+    },
+    {
+      "archivo": "respaldos/select_caratula_20261009_084353/select_editable_document.py",
+      "bytes": 22991,
+      "sha256": "cbbd7c1ab701c45350c0d5510e584de2df32a9b3dd168c4129f806dd798fe839"
+    },
+    {
+      "archivo": "respaldos/select_editable_20261008_224359/app.py",
+      "bytes": 135391,
+      "sha256": "64f93eea4a9e2e19abf371c9d964b05355a2025c44ccb2413bd87f2f02418771"
+    },
+    {
+      "archivo": "respaldos/select_editable_20261008_224359/CLC_Select_Escaneo_Editable.ttf",
+      "bytes": 266252,
+      "sha256": "c6c4c9d8c9d093bc5283f4bd2f6d4f8c7a4bcbf1d41100cd442fc121c74b1c57"
+    },
+    {
+      "archivo": "respaldos/select_espaciado_20261009_082238/app.py",
+      "bytes": 143248,
+      "sha256": "e9845b2cb6847afd9c503028c28e25423a318cc2e8c85a5a75d0b6721dbf57d9"
+    },
+    {
+      "archivo": "respaldos/select_espaciado_20261009_082238/select_editable_document.py",
+      "bytes": 19201,
+      "sha256": "1895f4a957403382a06fe59bc85cd7adaa6bb89124ac319dabbfcf160f3f9cb9"
+    },
+    {
+      "archivo": "respaldos/select_espaciado_20261009_082238/select_excel_reader.py",
+      "bytes": 2109,
+      "sha256": "e816ccc3ce5381984bcee7859ee650abe8867de27d7ac772ab6ea5d825c4bf87"
+    },
+    {
+      "archivo": "respaldos/select_excel_formulas_20261009_134544/app.py",
+      "bytes": 143348,
+      "sha256": "4aa37808508bb7473a4f1a2d0fbbe2496e065586ccec60d1ebbfd683f40e4c2d"
+    },
+    {
+      "archivo": "respaldos/select_excel_formulas_20261009_134544/select_editable_document.py",
+      "bytes": 19732,
+      "sha256": "563ce26b82186c510c106c5c0d8cf15aaab9b9ad710c5264e3fad9e7cb9b2f9a"
+    },
+    {
+      "archivo": "respaldos/select_excel_formulas_20261009_134544/select_excel_reader.py",
+      "bytes": 2420,
+      "sha256": "d241377afd841667388419056b38003de9b3e965ff086098f42c4503f52f2eaa"
+    },
+    {
+      "archivo": "respaldos/select_lector_preciso_20261009_080014/app.py",
+      "bytes": 141833,
+      "sha256": "87fd70d2d0ca18852a140971525a7aab8fdfbbe48d2414e0e55ca3bddd21cfef"
+    },
+    {
+      "archivo": "respaldos/select_lector_preciso_20261009_080014/excel_layouts.py",
+      "bytes": 4389,
+      "sha256": "6f37437cff5bbe51330cf004beebfd0ea7787f61c3bb4303e9f5d0172a081e46"
+    },
+    {
+      "archivo": "respaldos/select_lector_preciso_20261009_080014/santander_select_ocr.py",
+      "bytes": 5120,
+      "sha256": "1e0615b8e9586d11b9dbb9e52ef657896baf5dd796ff26ff2f7caa55a2b6d7a8"
+    },
+    {
+      "archivo": "respaldos/select_letra_ligera_20261009_132253/app.py",
+      "bytes": 143346,
+      "sha256": "ea558e9e908add952cfbec76f6dea655eb4954475c7765712fef4508617838e3"
+    },
+    {
+      "archivo": "respaldos/select_letra_ligera_20261009_132253/FUENTES_SELECT_EDITABLES.zip",
+      "bytes": 1626569,
+      "sha256": "29689d73f3e78a5df8ac17d5bc569e93ca24d5a43611794173132e31b8e564e9"
+    },
+    {
+      "archivo": "respaldos/select_letra_ligera_20261009_132253/select_editable_document.py",
+      "bytes": 19660,
+      "sha256": "225afba6b6f508b10b73f8a69c24017f6c8dfb09c3d6ff5114b60d7c5972d360"
+    },
+    {
+      "archivo": "respaldos/select_margen_fechas_20261009_162503/select_editable_document.py",
+      "bytes": 22009,
+      "sha256": "103465bd5b40f040b80732c9ed8d026a7e2f00af3c05df08807b409a38e5eec7"
+    },
+    {
+      "archivo": "respaldos/select_pixel_original_20261009_093921/FUENTES_SELECT_EDITABLES.zip",
+      "bytes": 1434098,
+      "sha256": "b6f9a350b31e3d85b29cecfccaf04af1193831dc5912f93c4bb7953ab2ed7590"
+    },
+    {
+      "archivo": "respaldos/select_pixel_original_20261009_093921/select_cover_layout.py",
+      "bytes": 7604,
+      "sha256": "ef3de579592e1697b58f9256e2993e1fc4c679b617ebf8e8fd255fe1a99722e8"
+    },
+    {
+      "archivo": "respaldos/select_pixel_original_20261009_093921/select_editable_document.py",
+      "bytes": 19540,
+      "sha256": "b43bef590b123f622e273fbc0ba19f639b9836f7da5638408e8214e22adc18ac"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161022/app.py",
+      "bytes": 143255,
+      "sha256": "268a136fe1f684000a37d4c51814986fed6214a50445d176cfd46cd190fb459f"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161022/select_cover_layout.py",
+      "bytes": 7821,
+      "sha256": "1e1ac3f5a251c7b9487c0e9bb3a0deff054542106502c063bad503a7f91b5635"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161022/select_editable_document.py",
+      "bytes": 19920,
+      "sha256": "12811f8cfc6ca4b76a0ce3ff381592e21479dd7aa1347815422417585fe61089"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161022/select_excel_reader.py",
+      "bytes": 3596,
+      "sha256": "7b4c8158c877e8beb4e7d4abdf140e849688cd3eea5c85d0e1bce2339fb40c98"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161022/select_formula_workbook.py",
+      "bytes": 12868,
+      "sha256": "f5682a55daf9eec88d685ec4addfbfbe17eb5be9f19548f7af8e5fad4ef78177"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161104/app.py",
+      "bytes": 143333,
+      "sha256": "de1ad20ffaa4c587af0633e8f5c9df38335152d5f9d429b337c2d7231540db57"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161104/select_cover_layout.py",
+      "bytes": 8611,
+      "sha256": "547a1753ba17c8f27147d56c5be9c4c861a82c9652e6c06859be651408361fe1"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161104/select_editable_document.py",
+      "bytes": 20580,
+      "sha256": "a0519eb6a5b2ec6fc84a634e50ac2d39be9488e46b25fed30bbd88ddf29cc90c"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161104/select_excel_reader.py",
+      "bytes": 3591,
+      "sha256": "f4636e6c182c154c43ec09fde346085b68de8ab7f0eb020edb943ed6fde205ef"
+    },
+    {
+      "archivo": "respaldos/select_pulido_comisiones_20261009_161104/select_formula_workbook.py",
+      "bytes": 12895,
+      "sha256": "53e846024b8d19add24f75d6def54a162b96ba33226821a014c71b46b8b69824"
+    },
+    {
+      "archivo": "santander_cover.py",
+      "bytes": 5783,
+      "sha256": "127be0f6b386f9c6fb76b68c00e0cbf66b2889194165a6987e08fa3620ec30f7"
+    },
+    {
+      "archivo": "santander_select.py",
+      "bytes": 7681,
+      "sha256": "6be21caada215d7c0b2a8abd0e62657648c68b092fde2fa6a2f63dec17474d62"
+    },
+    {
+      "archivo": "santander_select_ocr.py",
+      "bytes": 14211,
+      "sha256": "9257c80d1ceaabc0fac9df146a88e07c420cc81d94464232335451f9da32fdf0"
+    },
+    {
+      "archivo": "scotiabank_chart.py",
+      "bytes": 5224,
+      "sha256": "a76b8aecc8a86620b229f4350031afe950f668039c0eb90ca28d2517789e1f06"
+    },
+    {
+      "archivo": "scotiabank_parser.py",
+      "bytes": 5798,
+      "sha256": "685c5cc42493f6e817281f30ef7f751f5aeac7d253478630cb7ef5a22c73f8a9"
+    },
+    {
+      "archivo": "select_compare_worker.py",
+      "bytes": 1393,
+      "sha256": "04ebd0a6060202c6484423c427eeb5893e7994e074200bcdd19dea54c6424cd6"
+    },
+    {
+      "archivo": "select_cover_layout.py",
+      "bytes": 9092,
+      "sha256": "ed7379a79ba9a682ce67b1de4c5db707185222c93a942ff07e20f34dbe3e8326"
+    },
+    {
+      "archivo": "select_editable_document.py",
+      "bytes": 22000,
+      "sha256": "3dd3903f6d5371871f5c95ca9bd62f22b5ec839b7bffca65ffc7fabc33e4eb1b"
+    },
+    {
+      "archivo": "select_excel_reader.py",
+      "bytes": 3591,
+      "sha256": "f4636e6c182c154c43ec09fde346085b68de8ab7f0eb020edb943ed6fde205ef"
+    },
+    {
+      "archivo": "select_fixed_text.json",
+      "bytes": 5777,
+      "sha256": "bed512ef8d39a581e371eb1ea91d4542a31f23adb055143d8f2d2ceb73548161"
+    },
+    {
+      "archivo": "select_formula_workbook.py",
+      "bytes": 14119,
+      "sha256": "c9d33752f79516017aae82af7aa1194e6bd8b3baa3f8b96243ff3c36e43bdb61"
+    },
+    {
+      "archivo": "Select_Referencia_Bold.ttf",
+      "bytes": 144860,
+      "sha256": "88c98d7c7f490764c8cc92e39908e4f9511dac48516cc2fd4f0b16f7ad3316a6"
+    },
+    {
+      "archivo": "Select_Referencia_BoldItalic.ttf",
+      "bytes": 150564,
+      "sha256": "b0f361cad76491afeb283f57e35d1536732679933f69d787e68e28542483c9a9"
+    },
+    {
+      "archivo": "Select_Referencia_Numeros_Bold.ttf",
+      "bytes": 322036,
+      "sha256": "4eea7e89f85902604132ba13d181cd0ff9e7ea90be7840f255c8045f8bca86c8"
+    },
+    {
+      "archivo": "select_table_geometry.json",
+      "bytes": 11793,
+      "sha256": "4a54356ada6efcc3414cf636a7d469947f11abd8bdadeb858522009075840dee"
+    },
+    {
+      "archivo": "select_tools.py",
+      "bytes": 2631,
+      "sha256": "c43ddf1bd0061350fae4847b30d823757ff30d4c01181ec1f141ec6f53bb1e9f"
+    },
+    {
+      "archivo": "synthetic_engine.py",
+      "bytes": 21822,
+      "sha256": "7fe575517ba84791791715956b78b7122b3fdaae0ec3f9027b2d0d76ae5a593e"
+    },
+    {
+      "archivo": "universal_extractor.py",
+      "bytes": 20325,
+      "sha256": "3acf9d18eeafc46e5f94db161e53850d6897a74851c0073d6b5396e19e277d4d"
+    },
+    {
+      "archivo": "validacion_caracteres.json",
+      "bytes": 7067,
+      "sha256": "2c57b9d85379e8653bbc7b756dfe9c9937d016fec9598d98fa27b2c9f52c6a65"
+    }
+  ],
+  "excluidos_cache_regenerable": [
+    "__pycache__/banamex_micuenta_parser.cpython-312.pyc",
+    "__pycache__/bank_readers.cpython-312.pyc",
+    "__pycache__/bankaool.cpython-312.pyc",
+    "__pycache__/bbva_parser.cpython-312.pyc",
+    "__pycache__/excel_layouts.cpython-312.pyc",
+    "__pycache__/linked_periods.cpython-312.pyc",
+    "__pycache__/movement_templates.cpython-312.pyc",
+    "__pycache__/multi_bank_templates.cpython-312.pyc",
+    "__pycache__/santander_select.cpython-312.pyc",
+    "__pycache__/scotiabank_chart.cpython-312.pyc",
+    "__pycache__/scotiabank_parser.cpython-312.pyc",
+    "__pycache__/synthetic_engine.cpython-312.pyc",
+    "__pycache__/universal_extractor.cpython-312.pyc"
+  ]
+}

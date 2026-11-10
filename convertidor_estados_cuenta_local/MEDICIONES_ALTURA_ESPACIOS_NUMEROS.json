@@ -1,0 +1,1236 @@
+{
+  "measurement_resolution_dpi": 288,
+  "uncertainty_pt": "aprox. 0.25 puntos por muestreo; no equivale a coincidencia exacta",
+  "height": {
+    "F": {
+      "train_n": 49,
+      "validation_n": 41,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.013904106326219513,
+      "new_error_pt": 0.013904106326219513,
+      "applied": false
+    },
+    "E": {
+      "train_n": 181,
+      "validation_n": 174,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.028654251975574713,
+      "new_error_pt": 0.028654251975574713,
+      "applied": false
+    },
+    "C": {
+      "train_n": 103,
+      "validation_n": 87,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.906005859375,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.18115514996408047,
+      "new_error_pt": 0.028735632183908046,
+      "applied": true
+    },
+    "A": {
+      "train_n": 125,
+      "validation_n": 109,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.010757866255733946,
+      "new_error_pt": 0.010757866255733946,
+      "applied": false
+    },
+    "O": {
+      "train_n": 91,
+      "validation_n": 84,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.906005859375,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.18576776413690477,
+      "new_error_pt": 0.02976190476190476,
+      "applied": true
+    },
+    "L": {
+      "train_n": 66,
+      "validation_n": 65,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.005555138221153846,
+      "new_error_pt": 0.005555138221153846,
+      "applied": false
+    },
+    "I": {
+      "train_n": 92,
+      "validation_n": 103,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.023254987105582523,
+      "new_error_pt": 0.023254987105582523,
+      "applied": false
+    },
+    "D": {
+      "train_n": 67,
+      "validation_n": 71,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.029492875220070422,
+      "new_error_pt": 0.029492875220070422,
+      "applied": false
+    },
+    "S": {
+      "train_n": 26,
+      "validation_n": 30,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.906005859375,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.18933919270833333,
+      "new_error_pt": 0.03333333333333333,
+      "applied": true
+    },
+    "R": {
+      "train_n": 91,
+      "validation_n": 105,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.03700009300595238,
+      "new_error_pt": 0.03700009300595238,
+      "applied": false
+    },
+    "P": {
+      "train_n": 36,
+      "validation_n": 45,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.023779296875,
+      "new_error_pt": 0.023779296875,
+      "applied": false
+    },
+    "N": {
+      "train_n": 59,
+      "validation_n": 61,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.013835969518442622,
+      "new_error_pt": 0.013835969518442622,
+      "applied": false
+    },
+    "T": {
+      "train_n": 48,
+      "validation_n": 54,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.024540653935185185,
+      "new_error_pt": 0.024540653935185185,
+      "applied": false
+    },
+    "5": {
+      "train_n": 98,
+      "validation_n": 88,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.8271484375,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.10555752840909091,
+      "new_error_pt": 0.028409090909090908,
+      "applied": true
+    },
+    "0": {
+      "train_n": 252,
+      "validation_n": 381,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.906005859375,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.18111838193077429,
+      "new_error_pt": 0.03412073490813648,
+      "applied": true
+    },
+    "1": {
+      "train_n": 140,
+      "validation_n": 136,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.781494140625,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.06319292853860294,
+      "new_error_pt": 0.03308823529411765,
+      "applied": true
+    },
+    "8": {
+      "train_n": 55,
+      "validation_n": 77,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.906005859375,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.17468103185876624,
+      "new_error_pt": 0.022727272727272728,
+      "applied": true
+    },
+    "3": {
+      "train_n": 70,
+      "validation_n": 69,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.906005859375,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.17774498980978262,
+      "new_error_pt": 0.021739130434782608,
+      "applied": true
+    },
+    "7": {
+      "train_n": 71,
+      "validation_n": 56,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.028128487723214284,
+      "new_error_pt": 0.028128487723214284,
+      "applied": false
+    },
+    "2": {
+      "train_n": 134,
+      "validation_n": 130,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.8271484375,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.09281850961538461,
+      "new_error_pt": 0.019230769230769232,
+      "applied": true
+    },
+    "V": {
+      "train_n": 24,
+      "validation_n": 18,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.015407986111111112,
+      "new_error_pt": 0.015407986111111112,
+      "applied": false
+    },
+    "B": {
+      "train_n": 35,
+      "validation_n": 24,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.053080240885416664,
+      "new_error_pt": 0.053080240885416664,
+      "applied": false
+    },
+    "M": {
+      "train_n": 28,
+      "validation_n": 28,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.019444056919642856,
+      "new_error_pt": 0.019444056919642856,
+      "applied": false
+    },
+    "X": {
+      "train_n": 14,
+      "validation_n": 8,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.03253173828125,
+      "new_error_pt": 0.03253173828125,
+      "applied": false
+    },
+    "4": {
+      "train_n": 80,
+      "validation_n": 68,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.03439510569852941,
+      "new_error_pt": 0.03439510569852941,
+      "applied": false
+    },
+    "6": {
+      "train_n": 89,
+      "validation_n": 77,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.83544921875,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.0994635247564935,
+      "new_error_pt": 0.016233766233766232,
+      "applied": true
+    },
+    "Z": {
+      "train_n": 10,
+      "validation_n": 7,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.748291015625,
+      "new_height_pt": 5.748291015625,
+      "old_error_pt": 0.001708984375,
+      "new_error_pt": 0.001708984375,
+      "applied": false
+    },
+    "9": {
+      "train_n": 67,
+      "validation_n": 57,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.83544921875,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.0986071134868421,
+      "new_error_pt": 0.013157894736842105,
+      "applied": true
+    },
+    "U": {
+      "train_n": 23,
+      "validation_n": 28,
+      "source_height_pt": 5.75,
+      "old_height_pt": 5.8271484375,
+      "new_height_pt": 5.75,
+      "old_error_pt": 0.08056640625,
+      "new_error_pt": 0.008928571428571428,
+      "applied": true
+    }
+  },
+  "amounts": {
+    "training_n": 76,
+    "validation_n": 72,
+    "old_mean_width_error_pt": 0.6834513346354166,
+    "new_mean_width_error_pt": 0.15657212999131945,
+    "applied": true,
+    "digit_advance_pt": 4.2536910194925746
+  },
+  "spaces": {
+    "old_advance_pt": 1.905029296875,
+    "new_advance_pt": 1.905029296875,
+    "old_phrase_error_pt": 0.4827473958333333,
+    "new_phrase_error_pt": 0.4827473958333333,
+    "known_phrases": [
+      {
+        "month": "abril",
+        "phrase": "ADMINISTRACION RENTA MAR 2026",
+        "width_pt": 120.25
+      },
+      {
+        "month": "agosto",
+        "phrase": "ADMINISTRACION RENTA JUL 2026",
+        "width_pt": 116.0
+      },
+      {
+        "month": "julio",
+        "phrase": "ADMINISTRACION RENTA JUN 2026",
+        "width_pt": 117.75
+      },
+      {
+        "month": "junio",
+        "phrase": "ADMINISTRACION RENTA MAY 2026",
+        "width_pt": 120.0
+      },
+      {
+        "month": "marzo",
+        "phrase": "ADMINISTRACION RENTA FEB 2026",
+        "width_pt": 117.25
+      },
+      {
+        "month": "mayo",
+        "phrase": "ADMINISTRACION RENTA ABR 2026",
+        "width_pt": 118.25
+      }
+    ]
+  },
+  "line_pitch": {
+    "source_median_pt": 9.25,
+    "template_pt": 9.2
+  },
+  "sample_amounts": [
+    {
+      "month": "abril",
+      "text": "50.00",
+      "width_pt": 18.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "abril",
+      "text": "11,831.70",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "abril",
+      "text": "8.00",
+      "width_pt": 14.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "abril",
+      "text": "1,000.00",
+      "width_pt": 29.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "abril",
+      "text": "10,823.70",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "abril",
+      "text": "600.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "abril",
+      "text": "10,223.70",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "abril",
+      "text": "600.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "abril",
+      "text": "9,623.70",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "abril",
+      "text": "377.56",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "abril",
+      "text": "5,000.00",
+      "width_pt": 29.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "abril",
+      "text": "14,246.14",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "abril",
+      "text": "887.00",
+      "width_pt": 23.25,
+      "height_pt": 5.75
+    },
+    {
+      "month": "abril",
+      "text": "4,842.73",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "abril",
+      "text": "229.29",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "abril",
+      "text": "229.28",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "abril",
+      "text": "0.01",
+      "width_pt": 13.25,
+      "height_pt": 5.75
+    },
+    {
+      "month": "abril",
+      "text": "29,500.61",
+      "width_pt": 32.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "abril",
+      "text": "29,500.62",
+      "width_pt": 33.0,
+      "height_pt": 6.75
+    },
+    {
+      "month": "agosto",
+      "text": "175.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "agosto",
+      "text": "3,634.88",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "50.00",
+      "width_pt": 18.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "agosto",
+      "text": "8.00",
+      "width_pt": 14.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "agosto",
+      "text": "3,576.88",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "50,000.00",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "53,576.88",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "404.98",
+      "width_pt": 23.25,
+      "height_pt": 5.75
+    },
+    {
+      "month": "agosto",
+      "text": "53,171.90",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "8,458.83",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "5,000.00",
+      "width_pt": 29.0,
+      "height_pt": 6.75
+    },
+    {
+      "month": "agosto",
+      "text": "26,817.44",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "agosto",
+      "text": "1,000.00",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "25,817.44",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "10,000.00",
+      "width_pt": 33.75,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "35,817.44",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "30,000.00",
+      "width_pt": 33.75,
+      "height_pt": 7.0
+    },
+    {
+      "month": "agosto",
+      "text": "65,817.44",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "50.00",
+      "width_pt": 18.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "2,040.28",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "8.00",
+      "width_pt": 14.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "1,751.96",
+      "width_pt": 29.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "julio",
+      "text": "280.32",
+      "width_pt": 22.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "280.31",
+      "width_pt": 21.75,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "0.01",
+      "width_pt": 13.25,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "15,000.00",
+      "width_pt": 33.75,
+      "height_pt": 6.75
+    },
+    {
+      "month": "julio",
+      "text": "15,000.01",
+      "width_pt": 32.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "julio",
+      "text": "1,500.00",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "18,500.01",
+      "width_pt": 32.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "6,823.89",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "1,091.83",
+      "width_pt": 29.0,
+      "height_pt": 6.75
+    },
+    {
+      "month": "julio",
+      "text": "0.00",
+      "width_pt": 14.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "3,000.00",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "3,000.00",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "1,734.80",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "1,265.20",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "4,500.00",
+      "width_pt": 29.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "5,765.20",
+      "width_pt": 29.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "100.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "5,665.20",
+      "width_pt": 29.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "75.00",
+      "width_pt": 18.75,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "5,590.20",
+      "width_pt": 29.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "julio",
+      "text": "404.98",
+      "width_pt": 23.25,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "840.91",
+      "width_pt": 22.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "julio",
+      "text": "4,344.31",
+      "width_pt": 28.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "50.00",
+      "width_pt": 18.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "junio",
+      "text": "11,438.42",
+      "width_pt": 33.0,
+      "height_pt": 6.75
+    },
+    {
+      "month": "junio",
+      "text": "8.00",
+      "width_pt": 14.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "junio",
+      "text": "10,000.00",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "junio",
+      "text": "1,430.42",
+      "width_pt": 28.75,
+      "height_pt": 6.75
+    },
+    {
+      "month": "junio",
+      "text": "4,500.00",
+      "width_pt": 29.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "junio",
+      "text": "5,930.42",
+      "width_pt": 28.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "junio",
+      "text": "784.70",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "junio",
+      "text": "5,145.72",
+      "width_pt": 28.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "150.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "junio",
+      "text": "4,995.72",
+      "width_pt": 29.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "150.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "junio",
+      "text": "5,145.72",
+      "width_pt": 28.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "150.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "junio",
+      "text": "4,995.72",
+      "width_pt": 29.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "4,995.00",
+      "width_pt": 29.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "0.72",
+      "width_pt": 14.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "junio",
+      "text": "3,000.00",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "3,000.72",
+      "width_pt": 28.75,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "3,000.00",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "0.72",
+      "width_pt": 14.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "junio",
+      "text": "10,000.00",
+      "width_pt": 33.75,
+      "height_pt": 6.75
+    },
+    {
+      "month": "junio",
+      "text": "20,000.72",
+      "width_pt": 33.0,
+      "height_pt": 6.25
+    },
+    {
+      "month": "junio",
+      "text": "8,703.89",
+      "width_pt": 29.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "junio",
+      "text": "1,384.14",
+      "width_pt": 29.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "junio",
+      "text": "1,384.14",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "junio",
+      "text": "0.00",
+      "width_pt": 14.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "50.00",
+      "width_pt": 18.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "26,259.35",
+      "width_pt": 33.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "marzo",
+      "text": "8.00",
+      "width_pt": 14.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "500.00",
+      "width_pt": 22.75,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "26,751.35",
+      "width_pt": 33.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "marzo",
+      "text": "4,500.00",
+      "width_pt": 29.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "31,251.35",
+      "width_pt": 33.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "marzo",
+      "text": "15,000.00",
+      "width_pt": 33.75,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "46,251.35",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "11,000.00",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "31,751.35",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "21,000.00",
+      "width_pt": 33.75,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "52,751.35",
+      "width_pt": 33.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "10,921.60",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "41,829.75",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "940.14",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "31,810.16",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "377.59",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "8,521.02",
+      "width_pt": 29.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "22,911.55",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "400.00",
+      "width_pt": 23.25,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "22,511.55",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "1,900.00",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "24,411.55",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "6,000.00",
+      "width_pt": 29.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "30,411.55",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "650.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "29,761.55",
+      "width_pt": 33.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "marzo",
+      "text": "5,000.00",
+      "width_pt": 29.0,
+      "height_pt": 6.75
+    },
+    {
+      "month": "marzo",
+      "text": "24,761.55",
+      "width_pt": 33.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "marzo",
+      "text": "4,500.00",
+      "width_pt": 29.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "20,261.55",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "10,000.00",
+      "width_pt": 33.75,
+      "height_pt": 6.75
+    },
+    {
+      "month": "marzo",
+      "text": "30,261.55",
+      "width_pt": 33.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "marzo",
+      "text": "100.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "30,361.55",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "marzo",
+      "text": "970.00",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "marzo",
+      "text": "31,331.55",
+      "width_pt": 33.25,
+      "height_pt": 7.0
+    },
+    {
+      "month": "mayo",
+      "text": "50.00",
+      "width_pt": 18.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "mayo",
+      "text": "24,916.47",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "mayo",
+      "text": "8.00",
+      "width_pt": 14.5,
+      "height_pt": 5.75
+    },
+    {
+      "month": "mayo",
+      "text": "2,000.00",
+      "width_pt": 29.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "mayo",
+      "text": "22,908.47",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "mayo",
+      "text": "5,000.00",
+      "width_pt": 29.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "mayo",
+      "text": "27,908.47",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "mayo",
+      "text": "332.50",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "mayo",
+      "text": "27,575.97",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "mayo",
+      "text": "1,700.00",
+      "width_pt": 29.25,
+      "height_pt": 6.75
+    },
+    {
+      "month": "mayo",
+      "text": "29,275.97",
+      "width_pt": 33.5,
+      "height_pt": 6.75
+    },
+    {
+      "month": "mayo",
+      "text": "4,500.00",
+      "width_pt": 29.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "mayo",
+      "text": "33,775.97",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "mayo",
+      "text": "404.98",
+      "width_pt": 23.25,
+      "height_pt": 6.0
+    },
+    {
+      "month": "mayo",
+      "text": "22,317.50",
+      "width_pt": 33.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "mayo",
+      "text": "8,830.49",
+      "width_pt": 29.5,
+      "height_pt": 7.0
+    },
+    {
+      "month": "mayo",
+      "text": "2,316.45",
+      "width_pt": 29.0,
+      "height_pt": 7.0
+    },
+    {
+      "month": "mayo",
+      "text": "841.53",
+      "width_pt": 23.0,
+      "height_pt": 5.75
+    },
+    {
+      "month": "mayo",
+      "text": "1,474.92",
+      "width_pt": 28.75,
+      "height_pt": 7.0
+    }
+  ]
+}

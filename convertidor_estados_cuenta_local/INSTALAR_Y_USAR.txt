@@ -1,0 +1,21 @@
+CLC SELECT ESCANEO EDITABLE
+
+INSTALAR LA FUENTE EN WINDOWS
+1. Abre CLC_Select_Escaneo_Editable.ttf con doble clic.
+2. Pulsa Instalar. Si tu editor estaba abierto, ciérralo y vuelve a abrirlo.
+Nombre visible: CLC Select Escaneo Editable Regular.
+
+EN EL CONVERTIDOR
+Fase 2 Excel a PDF > SANTANDER SELECT.
+En la barra lateral: Acabado Santander Select > Escaneo editable (texto).
+Sube el Excel y modifica fechas, folios, conceptos e importes en la tabla.
+Revisa los saldos si cambias importes. Pulsa Generar PDF didáctico.
+La fuente también puede descargarse desde esa pantalla.
+
+EN UN EDITOR EXTERNO DE PDF
+El nuevo PDF conserva texto real y la fuente completa incrustada. La posibilidad de modificarlo depende del editor. Usa la fuente instalada si el editor solicita sustitución. La edición puede alterar el ajuste de renglones o las columnas; revísalas después.
+El convertidor permite editar la tabla importada y regenerar el PDF; no es un editor visual de PDFs arbitrarios.
+
+CARACTERÍSTICAS
+902 glifos con contornos obtenidos por muestreo a 300 dpi. Conserva las medidas calibradas y la separación uniforme de los números. Incluye letras españolas, acentos y signos. El acabado se produce con contornos de tipografía, no con imágenes de texto.
+Fuente derivada de Roboto Condensed bajo OFL; no es la fuente original de Santander. Mantener la licencia adjunta al redistribuirla y las marcas didácticas del ejemplo.

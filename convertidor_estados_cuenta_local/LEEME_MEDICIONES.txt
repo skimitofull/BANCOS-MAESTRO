@@ -1,0 +1,13 @@
+SANTANDER SELECT - CALIBRACIÓN DE ALTURA Y ESPACIADO
+
+Aplicada a las dos opciones existentes: Nítido y Escaneo didáctico.
+
+Se midieron imágenes de marzo a agosto a 288 dpi. Altura mediana de mayúsculas y números: 5.75 puntos. Se ajustaron verticalmente 12 caracteres cuya altura difería y cuya mejora también se verificó en meses distintos.
+
+Los diez dígitos ahora tienen el mismo avance: 4.254 puntos a tamaño 8.5. Coma y punto se ajustaron junto con ese avance usando 76 importes de entrenamiento y 72 de validación. Error medio del ancho visible de importes: antes 0.683 puntos, después 0.157 puntos.
+
+El espacio entre palabras sigue en 1.905 puntos: el ajuste propuesto no mejoró las frases de validación. El paso entre renglones sigue en 9.2 puntos; la mediana observada de 9.25 está dentro de la cuantización de 0.25 puntos por píxel de medición.
+
+La comparación incluye seis saldos originales, fuente anterior y fuente nueva ampliados a la misma escala. Los ejemplos son didácticos con 22 movimientos; se comprobaron dos páginas, límites de columnas y separación uniforme de números.
+
+Son ajustes de medidas, no una reconstrucción exacta de la fuente original. La forma de algunos caracteres y la textura del escaneo todavía pueden diferir. Las líneas conocidas no permiten asegurar que el espaciado de cualquier nombre o concepto coincida exactamente.

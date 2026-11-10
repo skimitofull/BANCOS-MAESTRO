@@ -1,0 +1,25 @@
+CARATULA DIDACTICA Y REVISION TIPOGRAFICA
+
+CARATULA
+En la barra lateral activa Añadir carátula didáctica Santander Select.
+Escribe datos ficticios en los campos: nombre, domicilio, RFC, cliente, cuenta, CLABE y sucursal.
+Genera un PDF con formato SANTANDER SELECT desde Fase 2, Generador didáctico o Periodos enlazados. La carátula se añade delante de los movimientos y utiliza el acabado elegido. Los demás formatos no reciben carátula.
+Los totales se calculan desde los movimientos. Si el último saldo impreso no coincide, la carátula muestra la diferencia; no altera las filas de movimientos.
+La carátula es reconstruida y didáctica. Usa fuentes de referencia para negrita y cursiva; las variantes definitivas todavía se deben perfeccionar. No incluye logos, QR, sellos ni datos del PDF original.
+
+PESTAÑA REVISION TIPOGRAFICA
+Abrir fuente en FontForge: abre la regular o la escaneada editable en el editor instalado. Guarda las pruebas con otro nombre para conservar el original.
+Revisar fuentes con FontBakery: revisión local independiente de cada familia. Descarga el informe JSON para consultar PASS, WARN, FAIL y pruebas omitidas. No certifica semejanza con el banco. La primera revisión detectó incidencias pendientes; no se declara que las fuentes superen todos los controles.
+Comparar visualmente: sube dos PDF tamaño carta, elige sus hojas y la zona. Se muestra la referencia, el ejercicio y un mapa de diferencias. El índice estructural incluye cambios de datos y posición; no es un porcentaje de exactitud de la tipografía.
+
+INSTALACIONES
+FontForge 20251009: C:\Program Files\FontForgeBuilds\bin\fontforge.exe
+FontBakery 1.1.0 y FontTools: C:\Users\clopez\Documents\ChatGPT\LOCAL CLC\tmp\font_quality\libs
+Comparación scikit-image y lectura OCR: C:\Users\clopez\Documents\ChatGPT\LOCAL CLC\tmp\santander_v2\libs
+No borrar esas carpetas de dependencias mientras se utilicen las herramientas. Los documentos se procesan localmente.
+
+PRUEBAS
+Interfaz real de Streamlit sin excepciones; campos de carátula y acciones disponibles.
+Tres acabados generados con una carátula y 22 movimientos en tres páginas.
+Totales conciliados y diferencia intencional de 100 MXN detectada.
+Comparación de imágenes idénticas con SSIM 1.0.
